@@ -6,7 +6,7 @@
 - 开发工具：WorkBuddy（连接器 + Skill + 本地执行）
 - 开发日期：2026-10-11
 - 模型：DeepSeek-V4.1-Flash
-- 项目：https://github.com/15279158022/mcd-group-secretary
+- 项目：https://github.com/fiveloose-coding/mcd-group-secretary
 
 ---
 

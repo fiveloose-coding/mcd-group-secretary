@@ -1,0 +1,6 @@
+# 统一换行符，保证跨平台检出/提交字节稳定
+* text=auto eol=lf
+
+# 参赛声明必须与官方文件逐字节一致 (sha256 见 README)，
+# 显式关闭该文件的一切换行转换。
+CONTEST_DECLARATION.md -text

@@ -1,0 +1,20 @@
+# 依赖（本项目零运行时依赖，保留以防本地试验）
+node_modules/
+
+# 本地运行产物
+out/
+*.local.json
+
+# 凭证 —— 永远不要提交
+.env
+.mcp-token
+mcp.json
+mcp-config.json
+*.token
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
